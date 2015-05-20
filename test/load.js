@@ -21,6 +21,7 @@ module.exports = function() {
     });
   }
 
+
   topic.expression = function(_) {
     expression = _;
     return topic;
